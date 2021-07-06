@@ -11,6 +11,9 @@ h2{
 h3{
     font-size: 30px;
 }
+h4{
+    font-size: 25px;
+}
 .color-word{
     color:orangered;
 }
@@ -49,8 +52,9 @@ h3{
 }
 #recipie{
     text-align: center;
+    color: orangered;
+    font-weight: 700;
 }
-
 .small-part{
     width: 30%;
     margin-left: 3%;
@@ -86,4 +90,34 @@ h3{
 }
 #name{
     font-size: 30px;
+}
+#developer{
+    text-align: center;
+    background-color: orangered;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+#developer a{
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+}
+.info{
+    width: 33%;
+    color: white;
+    border-radius: 30px;
+    margin-left: 30%;
+    margin-bottom: 120px;
+    padding-left: 80px;
+    padding-top: 5px;
+    padding-bottom: 40px;
+    background-image: linear-gradient(red, black)
+}
+.line-space{
+    line-height: 30px;
+}
+#subm{
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 10px;
 }
